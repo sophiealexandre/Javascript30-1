@@ -1,7 +1,8 @@
 # Javascript30-1
 First day of Javascript30 challenge
+https://javascript30.com/
 
-I upload this files more to keep track of what has been taught rather than the code itself
+I upload these files more to keep track of what has been taught rather than the code itself
 
 Lessons from this challenge:
 - Event listener on window
